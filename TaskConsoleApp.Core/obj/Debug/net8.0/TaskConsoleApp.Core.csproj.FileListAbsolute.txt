@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\bin\Debug\net8.0\TaskConsoleApp.Core.exe
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\bin\Debug\net8.0\TaskConsoleApp.Core.deps.json
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\bin\Debug\net8.0\TaskConsoleApp.Core.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\bin\Debug\net8.0\TaskConsoleApp.Core.dll
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\bin\Debug\net8.0\TaskConsoleApp.Core.pdb
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\obj\Debug\net8.0\TaskConsoleApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\obj\Debug\net8.0\TaskConsoleApp.Core.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\obj\Debug\net8.0\TaskConsoleApp.Core.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\obj\Debug\net8.0\TaskConsoleApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\obj\Debug\net8.0\TaskConsoleApp.Core.dll
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\obj\Debug\net8.0\refint\TaskConsoleApp.Core.dll
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\obj\Debug\net8.0\TaskConsoleApp.Core.pdb
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\obj\Debug\net8.0\TaskConsoleApp.Core.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\obj\Debug\net8.0\ref\TaskConsoleApp.Core.dll
+C:\Users\LENOVO\source\repos\TaskConsoleApp\TaskConsoleApp.Core\obj\Debug\net8.0\TaskConsoleApp.Core.sourcelink.json
